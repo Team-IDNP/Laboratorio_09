@@ -1,0 +1,7 @@
+<resources>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+        AIzaSyDGMIn8x3821OIBnTJ5pr4-1giLR1QPUFs
+    </string>
+    <string name="APIKEY">AIzaSyBCrQ-Ta7wofc66Vv64KkFBSW83UiFqudw</string>
+    <string name="OAuthKey">416598100478-kplhfvnpmvml8cqev7vuf2bmqg8aqlko.apps.googleusercontent.com</string>
+</resources>

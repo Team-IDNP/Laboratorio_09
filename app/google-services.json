@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "416598100478",
+    "project_id": "general-307200",
+    "storage_bucket": "general-307200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416598100478:android:200131daa998f452d898af",
+        "android_client_info": {
+          "package_name": "com.example.residuosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416598100478-9hj3d2817lm3ljda3qujmgh4andnic26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.residuosapp",
+            "certificate_hash": "c7a9254882a7074df5303f930fba61be214ead9a"
+          }
+        },
+        {
+          "client_id": "416598100478-kplhfvnpmvml8cqev7vuf2bmqg8aqlko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFGgWtJVcUxXZC0qLNsD8NtbINB-xxMVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416598100478-kplhfvnpmvml8cqev7vuf2bmqg8aqlko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
